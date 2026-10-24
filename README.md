@@ -35,3 +35,9 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=JbDev-tech&show_icons=true&theme=radical&hide_border=true" alt="Statistiques GitHub" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JbDev-tech&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
 </p>
+## 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JbDev-tech/JbDev-tech/output/github-snake-dark.svg" />
+  <img alt="Serpent sur la grille de contributions" src="https://raw.githubusercontent.com/JbDev-tech/JbDev-tech/output/github-snake.svg" />
+</picture>
