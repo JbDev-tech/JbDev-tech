@@ -28,3 +28,10 @@
 
 - [**My-portfolio**](https://github.com/JbDev-tech/My-portfolio) : mon portfolio en ligne, avec formulaire de contact fonctionnel · Next.js, TypeScript, Tailwind CSS, Resend · [Voir le site](https://jbdev-tech.vercel.app)
 - [**talk_ai**](https://github.com/JbDev-tech/talk_ai) : application web qui permet de discuter avec le contenu d'une page web grâce à l'IA · Next.js, Upstash Redis, Tailwind CSS
+
+## 📊 Statistiques GitHub
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JbDev-tech&show_icons=true&theme=radical&hide_border=true" alt="Statistiques GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JbDev-tech&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
+</p>
