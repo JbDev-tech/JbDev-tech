@@ -1,3 +1,4 @@
+<img src="banner.svg" alt="Bannière jbDev-Tech" width="100%" />
 <h1 align="center">👋 Bonjour, je suis Jean Baptiste</h1>
 
 <h3 align="center">Développeur web junior · Étudiant en Génie Logiciel · Lomé, Togo</h3>
