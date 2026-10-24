@@ -22,3 +22,8 @@
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,prisma,postgres,redis,git,figma,vscode" alt="Technologies" />
 </p>
+
+## 📌 Projets
+
+- [**My-portfolio**](https://github.com/JbDev-tech/My-portfolio) : mon portfolio en ligne, avec formulaire de contact fonctionnel · Next.js, TypeScript, Tailwind CSS, Resend · [Voir le site](https://jbdev-tech.vercel.app)
+- [**talk_ai**](https://github.com/JbDev-tech/talk_ai) : application web qui permet de discuter avec le contenu d'une page web grâce à l'IA · Next.js, Upstash Redis, Tailwind CSS
