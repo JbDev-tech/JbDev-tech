@@ -16,3 +16,9 @@
 - 🔍 Je recherche un **stage en développement web**
 - 🛠️ Je construis des applications avec React, Next.js et TypeScript
 - 🌐 Mon portfolio : [jbdev-tech.vercel.app](https://jbdev-tech.vercel.app)
+
+## 🧰 Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,prisma,postgres,redis,git,figma,vscode" alt="Technologies" />
+</p>
