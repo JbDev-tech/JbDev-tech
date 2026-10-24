@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0a0a"/>
+      <stop offset="1" stop-color="#2a0a3a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.5" r="0.55">
+      <stop offset="0" stop-color="#BC2AF0" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#BC2AF0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#glow)"/>
+
+  <circle cx="1090" cy="160" r="130" fill="none" stroke="#BC2AF0" stroke-opacity="0.35" stroke-width="2"/>
+  <circle cx="1090" cy="160" r="85" fill="none" stroke="#BC2AF0" stroke-opacity="0.5" stroke-width="2"/>
+
+  <text x="80" y="92" font-family="Segoe UI, Arial, sans-serif" font-size="26" letter-spacing="4" fill="#BC2AF0">&lt;/&gt; JBDEV-TECH</text>
+  <rect x="80" y="108" width="64" height="4" fill="#BC2AF0"/>
+  <text x="80" y="184" font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="700" fill="#ffffff">Jean Baptiste</text>
+  <text x="80" y="234" font-family="Segoe UI, Arial, sans-serif" font-size="30" fill="#e5e5e5">Développeur Web Junior · React · Next.js · TypeScript</text>
+  <text x="80" y="278" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#BC2AF0">jbdev-tech.vercel.app</text>
+</svg>
