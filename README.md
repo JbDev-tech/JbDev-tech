@@ -1,6 +1,14 @@
 <h1 align="center">👋 Bonjour, je suis Jean Baptiste</h1>
 
 <h3 align="center">Développeur web junior · Étudiant en Génie Logiciel · Lomé, Togo</h3>
+<p align="center">
+  <a href="https://jbdev-tech.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-jbdev--tech.vercel.app-BC2AF0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/yawo-jeanb-ahli/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jean%20Baptiste-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ## 🚀 À propos
 
