@@ -37,7 +37,7 @@ Je recherche un **stage en développement web** pour apprendre auprès d'une éq
 
 **Backend & données**
 
-<img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,redis" alt="Node.js, Prisma, PostgreSQL et Redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,prisma,mysql,postgres,redis" alt="Node.js, Prisma, MySQL, PostgreSQL et Redis" />
 
 **Outils**
 
@@ -51,13 +51,13 @@ Je recherche un **stage en développement web** pour apprendre auprès d'une éq
 <tr>
 <td width="50%" valign="top">
 
-#### 🌐 My-portfolio
+#### 🌱 AgriMétéo
 
-Mon portfolio personnel pour présenter mon parcours, mes projets et permettre aux visiteurs de me contacter.
+Application web de suivi agricole : parcelles, cultures et relevés, météo sur 5 jours et conseils adaptés à chaque culture et à son stade de croissance.
 
-**Stack :** Next.js, TypeScript, Tailwind CSS, Resend
+**Stack :** Next.js, TypeScript, Prisma, MySQL, Tailwind CSS
 
-[Voir le site ↗](https://jbdev-tech.vercel.app) · [Code source](https://github.com/JbDev-tech/My-portfolio)
+[Voir le site ↗](https://TON-ADRESSE.vercel.app) · [Code source](https://github.com/JbDev-tech/agrimeteo)
 
 </td>
 <td width="50%" valign="top">
@@ -68,7 +68,23 @@ Une application web qui permet de discuter avec le contenu d'une page web grâce
 
 **Stack :** Next.js, Upstash Redis, Tailwind CSS
 
-[Voir le code ↗](https://github.com/JbDev-tech/talk_ai)
+[Voir le site ↗](https://talk-ai-xi.vercel.app/) · [Code source](https://github.com/JbDev-tech/talk_ai)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌐 My-portfolio
+
+Mon portfolio personnel pour présenter mon parcours, mes projets et permettre aux visiteurs de me contacter.
+
+**Stack :** Next.js, TypeScript, Tailwind CSS, Resend
+
+[Voir le site ↗](https://jbdev-tech.vercel.app) · [Code source](https://github.com/JbDev-tech/My-portfolio)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
