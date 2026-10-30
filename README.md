@@ -57,7 +57,7 @@ Application web de suivi agricole : parcelles, cultures et relevés, météo sur
 
 **Stack :** Next.js, TypeScript, Prisma, MySQL, Tailwind CSS
 
-[Voir le site ↗](https://TON-ADRESSE.vercel.app) · [Code source](https://github.com/JbDev-tech/agrimeteo)
+[Voir le site ↗](https://agrimeteo-tree.vercel.app) · [Code source](https://github.com/JbDev-tech/agrimeteo)
 
 </td>
 <td width="50%" valign="top">
